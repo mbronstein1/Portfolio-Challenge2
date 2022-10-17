@@ -174,7 +174,7 @@ nav a:hover {
 #project1 {
     min-width: 100%;
     height: 300px;
-    background-image: url(./images/Cocktail-concierge-screenshot.jpg);
+    background-image: url(./images/Couch-Potato-screenshot.png);
 }
 
 #project2, #project3, #project4, #project5, #project6, #project7 {
@@ -184,27 +184,27 @@ nav a:hover {
 }
 
 #project2 {
-    background-image: url(./images/Weather-dashboard-screenshot.jpg);
+    background-image: url(./images/Cocktail-concierge-screenshot.jpg);
 }
 
 #project3 {
-    background-image: url(./images/code-quiz-screenshot.jpg);
+    background-image: url(./images/Weather-dashboard-screenshot.jpg);
 }
 
 #project4 {
-    background-image: url(./images/Password-Generator.jpg);
+    background-image: url(./images/code-quiz-screenshot.jpg);
 }
 
 #project5 {
-    background-image: url(./images/CSS-Cheatsheet-Screenshot.png);
+    background-image: url(./images/Password-Generator.jpg);
 }
 
 #project6 {
-    background-image: url(./images/Landing-Page-Screenshot.jpg);
+    background-image: url(./images/CSS-Cheatsheet-Screenshot.png);
 }
 
 #project7 {
-    background-image: url(./images/Code-Refactor-Screenshot.jpg)
+    background-image: url(./images/Background-generator-screenshot.png)
 }
 
 #contact-me .article-container {
