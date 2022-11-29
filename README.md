@@ -1,4 +1,4 @@
-# Portfolio-Challenge2
+# Simple-Portfolio
 
 ## Description
 
@@ -6,7 +6,7 @@ This is the second challenge in the Northwestern Coding Bootcamp (Module 2). The
 
 ## Link to live page
 
-[Live Link](https://mbronstein1.github.io/Portfolio-Challenge2/)
+[Live Link](https://mbronstein1.github.io/Simple-Portfolio/)
 
 ## Screenshot
 ![Webpage Screenshot](./assets/images/MBronstein-Portfolio-Screenshot.jpg)
